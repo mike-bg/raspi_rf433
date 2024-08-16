@@ -1,5 +1,5 @@
 import RPi.GPIO as GPIO
-from piVirtualWire import piVirtualWire
+import piVirtualWire
 
 
 # Configura el pin GPIO donde está conectado el receptor
